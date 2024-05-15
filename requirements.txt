@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+folium
+scikit-learn
+matplotlib
+black
+ruff
+pytest
+xgboost
+imblearn
